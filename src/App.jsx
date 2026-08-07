@@ -32,7 +32,7 @@ export default function App() {
 
       <section id="about" className="hero">
         <video className="hero-video" autoPlay loop muted playsInline>
-          {/* <source src={`${import.meta.env.BASE_URL}gemini_generated_video_5aa8dc76.mp4`} type="video/mp4" /> */}
+          <source src={`${import.meta.env.BASE_URL}hero-video.mp4`} type="video/mp4" />
         </video>
         <div className="container hero-content">
           <div className="hero-tag">EVENTS MADE EASY</div>
