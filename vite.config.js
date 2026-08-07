@@ -9,5 +9,5 @@ import react from '@vitejs/plugin-react'
 // set base to '/'
 export default defineConfig({
   plugins: [react()],
-  base: '/matrix-av-works/',
+  base: '/matrix_av/',
 })
