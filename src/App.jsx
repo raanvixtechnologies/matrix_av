@@ -108,7 +108,7 @@ export default function App() {
         <div className="container">
           <div className="feature-split">
             <div className="feature-image">
-              <img src="public\ledscreen.jpg" alt="LED Wall Setup" loading="lazy" />
+              <img src="https://github.com/raanvixtechnologies/matrix_av/blob/main/public/ledscreen.jpg" alt="LED Wall Setup" loading="lazy" />
             </div>
             <div className="feature-content">
               <h2>Considering an LED wall for your next event?</h2>
