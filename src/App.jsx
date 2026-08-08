@@ -128,7 +128,7 @@ export default function App() {
         <div className="container">
           <div className="feature-split reverse">
             <div className="feature-image">
-              <img src="https://images.unsplash.com/photo-1511578314322-379afb476865?w=800&q=80" alt="Equipment Rentals" loading="lazy" />
+              <img src="\public\ledscreen.png" alt="Equipment Rentals" loading="lazy" />
             </div>
             <div className="feature-content">
               <h2>Equipment Rentals Made Easy</h2>
